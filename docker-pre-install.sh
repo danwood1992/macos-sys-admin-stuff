@@ -1,5 +1,4 @@
 #!/bin/bash
-# Interrogate 
 
 ls -al /Applications/Docker.app
 ls -l /usr/local/bin
